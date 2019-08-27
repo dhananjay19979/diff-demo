@@ -3,3 +3,7 @@ First file in diff demo
 First update to file
 
 Second update to the file 
+
+This is a new third update to the file
+
+Change to test stage vs commit
